@@ -1,0 +1,39 @@
+<div class="container">
+    <div class="item header">
+      <h1 class="title">Mitch Lenaerts Resume</h1>
+      <img src="./Assets/Images/Resume_Image.png"  alt="Image off Mitch for professional use">
+    </div> 
+    
+
+    <div class="item about-me">
+      <h2 class="title">About Me</h2>
+      <p>Hi, I'm a passionate and motivated beginner developer making an exciting career switch from the logistics industry. 
+        After several years working in operations and supply chain, I discovered a strong interest in technology and problem-solving,
+        which led me to start learning software development.
+      </p>
+      
+      <p>While I'm at the start of my journey, I'm committed to building solid foundations in front-end and back-end development.
+        I have started My Journey on Udemy With the help off Dr. Angela Yu from <a href="https://www.appbrewery.com/">The App Brewery</a>
+        and I'm constantly learning through hands-on projects and continuous study.
+      </p> 
+      
+      <p>I'm excited to grow as a developer, contribute to meaningful projects, 
+        and eventually become part of a team that builds innovative digital solutions.
+      </p>
+    </div>
+    
+    <div class="item links">
+      <p class="link" id="link01"><a href="./Public/education.html">Education </a></p>
+      <p class="link" id="link02"><a href="./Public/experience.html">Experience </a></p>
+      <p class="link" id="link03"><a href="./Public/languageandexpertise.html">Language & Expertise </a></p>
+      <p class="link" id="link04"> <a href="./Public/contact.html">Contact Me</a></p>
+    </div>
+
+    <footer class="item footer">
+        <small>
+            Copyright © 2025 Mitch Lenaerts Resume. All Rights Reserved.
+        </small>
+    </footer>
+    </div>
+
+
